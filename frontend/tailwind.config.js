@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        mono: ['Courier New', 'monospace'],
+        mono: ['Courier Prime', 'Courier New', 'monospace'],
       },
     },
   },
